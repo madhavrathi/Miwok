@@ -2,7 +2,15 @@ Miwok App
 ===================================
 
 This app displays lists of vocabulary words for the user to learn the Miwok language.
-Used in a Udacity course in the Beginning Android Nanodegree.
+Developed in a Udacity course in Android Basic:Multiscreen Apps.
+
+Screen-Shots
+--------------
+![screenshot_2017-03-24-01-31-24-848_com example android miwok](https://cloud.githubusercontent.com/assets/22375731/24267952/ff4bc79a-1031-11e7-8f1f-63e7292c8a33.png)
+![screenshot_2017-03-24-01-31-19-473_com example android miwok](https://cloud.githubusercontent.com/assets/22375731/24267953/ff4ddb34-1031-11e7-9636-f6bfc5ab6832.png)
+![screenshot_2017-03-24-01-31-13-860_com example android miwok](https://cloud.githubusercontent.com/assets/22375731/24267955/ffa2926e-1031-11e7-9ee6-3a12b95f0625.png)
+![screenshot_2017-03-24-01-31-08-132_com example android miwok](https://cloud.githubusercontent.com/assets/22375731/24267954/ff9ccb0e-1031-11e7-9be1-e0e4a3844963.png)
+
 
 Pre-requisites
 --------------
@@ -17,31 +25,8 @@ Getting Started
 This sample uses the Gradle build system. To build this project, use the
 "gradlew build" command or use "Import Project" in Android Studio.
 
-Support
--------
 
-- Google+ Community: https://plus.google.com/communities/105153134372062985968
-- Stack Overflow: http://stackoverflow.com/questions/tagged/android
+Dsiclaimer
+--------------
+I do not own any of the code. All the starter files were provided by Udacity during the course.
 
-Patches are encouraged, and may be submitted by forking this project and
-submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.
-
-License
--------
-
-Copyright 2016 The Android Open Source Project, Inc.
-
-Licensed to the Apache Software Foundation (ASF) under one or more contributor
-license agreements.  See the NOTICE file distributed with this work for
-additional information regarding copyright ownership.  The ASF licenses this
-file to you under the Apache License, Version 2.0 (the "License"); you may not
-use this file except in compliance with the License.  You may obtain a copy of
-the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
-WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
-License for the specific language governing permissions and limitations under
-the License.
