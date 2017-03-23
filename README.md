@@ -3,6 +3,9 @@ Miwok App
 
 This app displays lists of vocabulary words for the user to learn the Miwok language.
 Developed in a Udacity course of Android Basic:Multiscreen Apps.On tapping the vocabulary word, the app pronounces the word to make end user get the correct eay of speaking the word.
+
+
+
 Screen-Shots
 --------------
 ![screenshot_2017-03-24-01-31-24-848_com example android miwok](https://cloud.githubusercontent.com/assets/22375731/24267952/ff4bc79a-1031-11e7-8f1f-63e7292c8a33.png)
