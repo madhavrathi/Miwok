@@ -8,10 +8,16 @@ Developed in a Udacity course of Android Basic:Multiscreen Apps.On tapping the v
 
 Screen-Shots
 --------------
-![screenshot_2017-03-24-01-31-24-848_com example android miwok](https://cloud.githubusercontent.com/assets/22375731/24267952/ff4bc79a-1031-11e7-8f1f-63e7292c8a33.png)
-![screenshot_2017-03-24-01-31-19-473_com example android miwok](https://cloud.githubusercontent.com/assets/22375731/24267953/ff4ddb34-1031-11e7-9636-f6bfc5ab6832.png)
-![screenshot_2017-03-24-01-31-13-860_com example android miwok](https://cloud.githubusercontent.com/assets/22375731/24267955/ffa2926e-1031-11e7-9ee6-3a12b95f0625.png)
-![screenshot_2017-03-24-01-31-08-132_com example android miwok](https://cloud.githubusercontent.com/assets/22375731/24267954/ff9ccb0e-1031-11e7-9be1-e0e4a3844963.png)
+
+<table>
+    <tr>
+     <td><img src="https://cloud.githubusercontent.com/assets/22375731/24267952/ff4bc79a-1031-11e7-8f1f-63e7292c8a33.png"></td>
+     <td><img src="https://cloud.githubusercontent.com/assets/22375731/24267953/ff4ddb34-1031-11e7-9636-f6bfc5ab6832.png"></td>
+     <td><img src="https://cloud.githubusercontent.com/assets/22375731/24267955/ffa2926e-1031-11e7-9ee6-3a12b95f0625.png"></td>
+     <td><img src="https://cloud.githubusercontent.com/assets/22375731/24267954/ff9ccb0e-1031-11e7-9be1-e0e4a3844963.png">
+    </tr>
+  </table>
+
 
 
 Pre-requisites
